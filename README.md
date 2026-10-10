@@ -1,0 +1,1 @@
+# Ai-startup-idea-validator-main

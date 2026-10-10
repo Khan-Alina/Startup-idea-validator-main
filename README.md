@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Multi-Agent AI Startup Idea Validator
 
 > **An End-to-End Autonomous Multi-Agent Intelligence System for Real-Time Market Demand Analysis, Competitor Benchmarking, SWOT & Execution Risk Modeling, and Go-To-Market Synthesis.**
@@ -214,3 +215,6 @@ Open your browser at `http://localhost:8501` to access the validator.
 - **Domain**: Artificial Intelligence / Multi-Agent Systems / NLP
 - **Project Type**: Final Year Capstone Project
 
+=======
+# Ai-startup-idea-validator-main
+>>>>>>> cd53dd364e64b206c8e98e0ea38c0cd959b2dcff

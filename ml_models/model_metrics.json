@@ -1,0 +1,42 @@
+{
+  "model_name": "RandomForestClassifier (Ensemble)",
+  "baseline_model": "LogisticRegression",
+  "n_estimators": 180,
+  "max_depth": 12,
+  "dataset_records": 5000,
+  "train_samples": 4000,
+  "test_samples": 1000,
+  "accuracy_pct": 92.3,
+  "baseline_accuracy_pct": 92.4,
+  "precision_pct": 87.43,
+  "recall_pct": 98.8,
+  "f1_score_pct": 92.77,
+  "roc_auc_pct": 98.06,
+  "cv_mean_pct": 90.45,
+  "cv_std_pct": 0.79,
+  "confusion_matrix": [
+    [
+      429,
+      71
+    ],
+    [
+      6,
+      494
+    ]
+  ],
+  "features": {
+    "categorical": [
+      "Industry",
+      "Market_Size",
+      "Business_Model"
+    ],
+    "numerical": [
+      "Founder_Experience_Years",
+      "Team_Size",
+      "Funding_USD_M",
+      "Burn_Rate_USD_M",
+      "Competitors",
+      "Innovation_Score"
+    ]
+  }
+}

@@ -59,6 +59,7 @@ xxhash==3.8.1
 zstandard==0.25.0
 langchain-community
 duckduckgo-search
+ddgs
 fpdf2>=2.8.0
 streamlit
 scikit-learn>=1.5.0

@@ -99,7 +99,12 @@ button[data-testid="stDeployButton"],
 [data-testid="stAppDeployButton"],
 [data-testid="stToolbarActions"],
 [data-testid="stHeaderActionElements"],
-[data-testid="stDecoration"] {
+[data-testid="stDecoration"],
+[data-testid="manage-app-button"],
+div[class*="viewerBadge"],
+div[data-testid="stStatusWidget"],
+footer,
+#MainMenu {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
